@@ -117,7 +117,7 @@ pathspec==0.8.0
 pathtools==0.1.2
 pexpect==4.7.0
 pickleshare==0.7.5
-Pillow==7.1.1
+Pillow==8.3.2
 pipdate==0.3.1
 ply==3.11
 post==2019.4.13
